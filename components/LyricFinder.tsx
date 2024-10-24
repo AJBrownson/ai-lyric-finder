@@ -60,7 +60,7 @@ export default function LyricFinder() {
       <header className="p-4 fixed bg-white w-full">
         <span className="flex gap-x-8 items-center">
           <CiMusicNote1 size={30} />
-          <h1 className="text-3xl font-bold">AI Lyric Finder</h1>
+          <h1 className="text-3xl font-bold">Music Lyric Finder</h1>
         </span>
       </header>
 

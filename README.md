@@ -24,8 +24,8 @@ You can view a live demo of Music Lyric Finder [here](https://music-lyric-finder
 
 ## Screenshots
 
-![App Initial Screenshot](https://github.com/user-attachments/assets/40857ef5-51a1-4c11-8f59-c0ea231b797a)
-![Search Results Screenshot](https://github.com/user-attachments/assets/d6da7992-3517-4d61-a929-29f836208411)
+![App Initial Screenshot](https://github.com/user-attachments/assets/0740ab27-825f-4b60-b3a8-22fa105cdccc)
+![Search Results Screenshot](https://github.com/user-attachments/assets/b47fffb7-057f-412f-be38-beb5db792823)
 
 ## Technologies
 
