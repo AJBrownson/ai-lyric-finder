@@ -20,7 +20,7 @@ This is a bot that helps users find the lyrics to their favorite songs. It finds
 
 ## Demo
 
-You can view a live demo of Music Lyric Finder [here]()
+You can view a live demo of Music Lyric Finder [here](https://music-lyric-finder.vercel.app/)
 
 ## Screenshots
 
@@ -42,7 +42,7 @@ To get started with the project, run the following commands in your terminal:
 1. Clone the repository
 ```bash
 git clone https://github.com/AJBrownson/music-lyric-finder.git
-cd mini-faq-bot
+cd music-lyric-finder
 ```
 
 2. Install the dependencies
